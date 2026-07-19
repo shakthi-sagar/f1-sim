@@ -1,0 +1,6 @@
+node_modules/
+dist/
+pipeline/.venv/
+pipeline/.fastf1_cache/
+__pycache__/
+.DS_Store
